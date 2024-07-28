@@ -6,7 +6,7 @@
 
 # Login
 <img src="images/userfriendlyWarning.png">
-<img src="successfullLgoin.png">
+<img src="successfullLogin.png">
 
 # Account List
 <img src="images/AccountList.png">
